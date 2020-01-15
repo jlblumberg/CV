@@ -21,11 +21,11 @@ For a complete list, see my [GitHub](https://github.com/jlblumberg?tab=repositor
 
 #### Communicative
 
-I honed my communication skills while completing my thesis at university, which involved writing and defending a 90-page dissertation to a board of professors and Ph.D. candidates. I further developed these skills in my last job, where I presented quarterly business reviews to C-level stakeholders among my clients. This saw me gain abilities in synthesising complex technical information into digestible stories for the different levels of interest in the room.
+I honed my communication skills while completing my thesis at university, which involved writing and defending a 90-page dissertation to a board of professors and Ph.D. candidates. I further developed these skills in my last job, where I presented quarterly business reviews to C-level stakeholders among my clients. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room.
 
 #### Analytical
 
-I am always analysing and looking for ways to improve, and demonstrate this both in my work but also in my own processes. In my last job, I regularly consumed large data sets and extracted meaningful and actionable insights for my clients businesses. About a year into the job, I also analysed my time sheets and found that I was spending a lot of time on a repetitive task, so I wrote code to automate it, and it's now used across the agency. 
+I am always analysing and looking for ways to improve, and demonstrate this both in my work and in my own processes. In my last job, I regularly consumed large data sets and extracted meaningful and actionable insights for my clients businesses. About a year into the job, I also analysed my time sheets and found that I was spending a lot of time on a repetitive task, so I wrote code to automate it; code which is now used across the agency. 
 
 #### Passionate
 
@@ -33,8 +33,8 @@ When I find something I am passionate about, I tend to adopt a laser focus. I fo
 
 #### Additional skills
 
- - Methodologies : Agile, Test Driven Development, Behaviour Driven Development
- - Languages : Basic Spanish
+ - Methodologies: Agile, Test Driven Development, Behaviour Driven Development
+ - Languages: Basic Spanish
  
 ## Education
 
@@ -49,9 +49,9 @@ A 16-week intensive development bootcamp, focusing on:
 
 #### Western University (Canada) (Sep '13 - Apr '17)
 
-- B.Sc. Psychology (2:1 equivalent), Honours Specialisation in Developmental Cognitive Neuroscience
+- B.Sc. Psychology (2:1 equivalent), with Honours Specialisation in Developmental Cognitive Neuroscience
 - Completed modules in Calculus, Physics, Chemistry, Biology, Psychology and Neuroscience, as well as an analytical
-  thesis on the effect of adversity on impulsivity in Syrian refugee children in Canada
+  dissertation on the effect of adversity on impulsivity in Syrian refugee children in Canada
 - Awards: Western Scholarship of Excellence, Chinese Language Prize for highest achievement in the study of Mandarin
 - Organisational and tutor volunteer for Frontier College, tutoring mature students for their high-school-equivalency exams
 
@@ -59,22 +59,22 @@ A 16-week intensive development bootcamp, focusing on:
 
 - Cumulative GPA: 3.8 (out of 4.0)
 - Math Honors Society and National Honors Society member
-- Swim Team Captain and state finalist
+- Swimming team captain and state finalist
 
 ## Work Experience
 
-**NMPi** (Jan '18 - Dec '19)    
+**NMPi** (Jan '18 - Dec '19)
 *Senior Account Executive*  
-- Auditing accounts for improvements, designing and executing product and strategy roadmaps, and forecasting key KPIs
-- Mentoring and training new joiners, including a junior account executive who formed my team
-- Contributing to company culture through extra-role projects such as championing an employee engagement initiative
+- Audited accounts, designd and executed product and strategy roadmaps, and forecasted and reported on key KPIs
+- Mentored and trained new joiners, including a junior account executive who formed my team
+- Contributed to company culture through extra-role projects such as championing the employee engagement initiative
 
-**Energy House Digital** (Sep '17 - Dec '17)   
+**Energy House Digital** (Sep '17 - Dec '17)
 *Digital Marketing Intern*  
 - Learned the fundamentals of paid search, paid social, and organic digital marketing
 - Gained experience with stand-ups and retrospectives
 
 ## Hobbies and Interests
-- Cooking: I absolutely love to cook; there's no dish too daring, no sweet kitchen kit I'd say no to
+- Cooking: I absolutely love to cook. There's no dish too daring, no sweet kitchen kit I'd say no to
 - Chess: The competitor in me loves a chess match, though I'm certainly no Grandmaster
-- Travelling: Sometimes I even go the full 9 yards and do cooking classes abroad
+- Travelling: Sometimes I even go the full mile and do cooking classes abroad
