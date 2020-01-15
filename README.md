@@ -21,15 +21,15 @@ For a complete list, see my [GitHub](https://github.com/jlblumberg?tab=repositor
 
 #### Communicative
 
-I honed my communication skills while completing my thesis at university, which involved writing and defending a 90-page dissertation to a board of Proffessors and Ph.D. candidates. I further developed these skills in my last job, where I presented quarterly business reviews to C-level stakeholders among my clients. This saw me gain abilities in synthesising complex technichal information into digestible stories for the different levels of interest in the room.
+I honed my communication skills while completing my thesis at university, which involved writing and defending a 90-page dissertation to a board of professors and Ph.D. candidates. I further developed these skills in my last job, where I presented quarterly business reviews to C-level stakeholders among my clients. This saw me gain abilities in synthesising complex technical information into digestible stories for the different levels of interest in the room.
 
 #### Analytical
 
-I am always analysing and looking for ways to improve, and demonstrate this both in my work but also in my own processes. In my last job, I regularly consumed large data sets and extracted meaningful and actionable insights for my clients businesses. About a year into the job, I also analysed my time sheets and found that I was spending a lot of time on a repetitive task, so I wrote code to automate it, and it's now used accross the agency. 
+I am always analysing and looking for ways to improve, and demonstrate this both in my work but also in my own processes. In my last job, I regularly consumed large data sets and extracted meaningful and actionable insights for my clients businesses. About a year into the job, I also analysed my time sheets and found that I was spending a lot of time on a repetitive task, so I wrote code to automate it, and it's now used across the agency. 
 
 #### Passionate
 
-When I find something I am passionate about, I tend to adopt a laser focus. I found in my last job that many people were complaining about work at the pub, but we didn't have a mechanism for anonymously feeding back to management. I spoke to many people across the business, did a lot of research about different options, and eventually found Peakon (an employee engagement platform). I successfully pitched a case to the leadership team and secured funding from our finance department. We onboarded the platform and began to improve employee satisfaction and engagement.
+When I find something I am passionate about, I tend to adopt a laser focus. I found in my last job that many people were complaining about work at the pub, but we didn't have a mechanism for anonymously feeding back to management. I spoke to many people across the business, did a lot of research about different options, and eventually found Peakon (an employee engagement platform). I successfully pitched a case to the leadership team and secured funding from our finance department. We on-boarded the platform and began to improve employee satisfaction and engagement.
 
 #### Additional skills
 
@@ -49,11 +49,11 @@ A 16-week intensive development bootcamp, focusing on:
 
 #### Western University (Canada) (Sep '13 - Apr '17)
 
-- B.Sc. Psychology (2:1 equivalent), Honours Specialization in Developmental Cognitive Neuroscience
+- B.Sc. Psychology (2:1 equivalent), Honours Specialisation in Developmental Cognitive Neuroscience
 - Completed modules in Calculus, Physics, Chemistry, Biology, Psychology and Neuroscience, as well as an analytical
   thesis on the effect of adversity on impulsivity in Syrian refugee children in Canada
 - Awards: Western Scholarship of Excellence, Chinese Language Prize for highest achievement in the study of Mandarin
-- Organizational and tutor volunteer for Frontier College, tutoring mature students for their high-school-equivalency exams
+- Organisational and tutor volunteer for Frontier College, tutoring mature students for their high-school-equivalency exams
 
 #### Williamsville North High School (USA) (Sep '09 - June '13)
 
@@ -66,7 +66,7 @@ A 16-week intensive development bootcamp, focusing on:
 **NMPi** (Jan '18 - Dec '19)    
 *Senior Account Executive*  
 - Auditing accounts for improvements, designing and executing product and strategy roadmaps, and forecasting key KPIs
-- Mentoring and training new joiners, including a junior account exectutive who formed my team
+- Mentoring and training new joiners, including a junior account executive who formed my team
 - Contributing to company culture through extra-role projects such as championing an employee engagement initiative
 
 **Energy House Digital** (Sep '17 - Dec '17)   
@@ -77,4 +77,4 @@ A 16-week intensive development bootcamp, focusing on:
 ## Hobbies and Interests
 - Cooking: I absolutely love to cook; there's no dish too daring, no sweet kitchen kit I'd say no to
 - Chess: The competitor in me loves a chess match, though I'm certainly no Grandmaster
-- Traveling: Sometimes I even go the full 9 yards and do cooking classes abroad
+- Travelling: Sometimes I even go the full 9 yards and do cooking classes abroad
