@@ -14,7 +14,7 @@ For a complete list, see my [GitHub](https://github.com/jlblumberg?tab=repositor
 
 | Project   | Description | Technologies |
 |---        |---          |---           |
-| [A project - change link](https://www.github.com/uxbuddy/uxbuddy) | 5 word description of what it is. Users can do this, that, and the other. | firstTech, secondTech |
+|[MakersBnB](https://github.com/Kefuri/MakersBnB) | A clone of Airbnb. Users can sign up, log in, list a space, and book other peoples spaces. | HTML & CSS Frontend. Ruby, Sinatra, PostgreSQL Backend. RSpec and Capybara for testing |
 |[Another one - change link](https://www.github.com/lsewilson/atomodoro)| 5 word description of what it is. Users can do this, that, and the other. | firstTech, secondTech, anotherTech |
 
 ## Skills
@@ -29,7 +29,7 @@ I am always analysing and looking for ways to improve, and demonstrate this both
 
 #### Passionate
 
-When I find something I am passionate about, I tend to adopt a laser focus. I found in my last job that many people were complaining about work at the pub, but we didn't have a mechanism for anonymously feeding back to management. I spoke to many people across the business, did a lot of research about different options, and eventually found Peakon (an employee engagement platform). I successfully pitched a case to the leadership team and secured funding from our finance department. We on-boarded the platform and began to improve employee satisfaction and engagement.
+When I find something I am passionate about, I tend to adopt a laser focus. For instance, I found that many people in the agency I worked at were complaining about their jobs, but we didn't have a mechanism for anonymously feeding back to management. I spoke to many people across the business, did a lot of research about different options, and eventually found Peakon (an employee engagement platform). I successfully pitched a case to the leadership team and secured funding from our finance department. We on-boarded the platform and began to improve employee satisfaction and engagement.
 
 #### Additional skills
 
@@ -49,7 +49,7 @@ A 16-week intensive development bootcamp, focusing on:
 
 #### Western University (Canada) (Sep '13 - Apr '17)
 
-- B.Sc. Psychology (2:1 equivalent), with Honours Specialisation in Developmental Cognitive Neuroscience
+- B.Sc. (Hons) Psychology, with a Specialisation in Developmental Cognitive Neuroscience -- Achieved a 2:1 (equivalent)
 - Completed modules in Calculus, Physics, Chemistry, Biology, Psychology and Neuroscience, as well as an analytical
   dissertation on the effect of adversity on impulsivity in Syrian refugee children in Canada
 - Awards: Western Scholarship of Excellence, Chinese Language Prize for highest achievement in the study of Mandarin
@@ -75,6 +75,6 @@ A 16-week intensive development bootcamp, focusing on:
 - Gained experience with stand-ups and retrospectives
 
 ## Hobbies and Interests
-- Cooking: I absolutely love to cook. There's no dish too daring, no sweet kitchen kit I'd say no to
-- Chess: The competitor in me loves a chess match, though I'm certainly no Grandmaster
-- Travelling: Sometimes I even go the full mile and do cooking classes abroad
+- Cooking: I love to cook. There's no dish too daring, no sweet kitchen kit I'd say no to
+- Chess: The competitor in me loves a chess match, though I'm no Grandmaster
+- Travelling: Sometimes you can even catch me combining two of three in doing cooking classes abroad
