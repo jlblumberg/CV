@@ -18,8 +18,8 @@ For a complete list, see my [GitHub repositories](https://github.com/jlblumberg?
 **Technical experience:** 
 - Languages: Ruby, JavaScript
 - Development frameworks: Rails
-- Testing frameworks: RSpec (Ruby), Jasmine (JavaScript), Capybara and Selenium-Webdriver (feature testing web-apps)
-- Other: TravisCI (continuous integration), CodeClimate (accountability and test coverage), Heroku (cloud-based hosting)
+- Testing frameworks: RSpec (Ruby), Jasmine (JavaScript), Capybara (feature testing)
+- Other: TravisCI (continuous integration), CodeClimate (accountability and test coverage), Heroku (hosting)
 
 ## Skills
 
