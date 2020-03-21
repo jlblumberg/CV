@@ -6,12 +6,6 @@ I am a curious and ambitious junior full stack developer with a passion for fint
 
 After graduating from Western University in Canada with a degree in Psychology, I spent two years working in account management in a digital marketing agency. I started teaching myself how to code when I had the opportunity to automate some of the more repetitive parts of my role, and I am now training full time at Makers Academy, a 16 week software development bootcamp. What excites me about coding, and technology in general, is that it allows people to spend more time doing what they love by reducing time spent on tasks that are more mundane.
 
-**Tech Skills:** 
-- Languages: Ruby, JavaScript
-- Development Frameworks: Rails
-- Testing frameworks: RSpec (Ruby), Jasmine (JavaScript), Capybara and Selenium-Webdriver (feature testing web-apps)
-- Other: TravisCI (continuous integration), CodeClimate (accountability and test coverage), Heroku (cloud-based hosting)
-
 ## Projects
 
 For a complete list, see my [GitHub repositories](https://github.com/jlblumberg?tab=repositories).
@@ -20,6 +14,12 @@ For a complete list, see my [GitHub repositories](https://github.com/jlblumberg?
 |---        |---          |---           |
 |[MakersBnB](https://github.com/Kefuri/MakersBnB) | A clone of Airbnb. Users can sign up, log in, list a space, and book other people's spaces. | HTML & CSS Frontend. Ruby, Sinatra, PostgreSQL Backend. RSpec and Capybara for testing. |
 |[AceBook](https://github.com/Peter2-71828/aceBook-PingPong) | A clone of Facebook. Users can make, edit, and delete posts, upload photos to albums, and select profile pictures. | HTML & CSS Frontend with Bootstrap. Ruby, Rails, PostgreSQL Backend. RSpec and Capybara for testing. Travis and CodeClimate for continuous integration and accountability. Hosted on Heroku: [live site here](https://acebook-pingpong.herokuapp.com/).|
+
+**Technichal experience:** 
+- Languages: Ruby, JavaScript
+- Development frameworks: Rails
+- Testing frameworks: RSpec (Ruby), Jasmine (JavaScript), Capybara and Selenium-Webdriver (feature testing web-apps)
+- Other: TravisCI (continuous integration), CodeClimate (accountability and test coverage), Heroku (cloud-based hosting)
 
 ## Skills
 
