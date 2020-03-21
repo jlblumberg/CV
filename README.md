@@ -10,10 +10,10 @@ After graduating from Western University in Canada with a degree in Psychology, 
 
 For a complete list, see my [GitHub repositories](https://github.com/jlblumberg?tab=repositories).
 
-| Project   | Description | Technologies |
-|---        |---          |---           |
-|[MakersBnB](https://github.com/Kefuri/MakersBnB) | A clone of Airbnb. Users can sign up, log in, list a space, and book other people's spaces. | HTML & CSS Frontend. Ruby, Sinatra, PostgreSQL Backend. RSpec and Capybara for testing. |
-|[AceBook](https://github.com/Peter2-71828/aceBook-PingPong) | A clone of Facebook. Users can make, edit, and delete posts, upload photos to albums, and select profile pictures. | HTML & CSS Frontend with Bootstrap. Ruby, Rails, PostgreSQL Backend. RSpec and Capybara for testing. Travis and CodeClimate for continuous integration and accountability. Hosted on Heroku: [live site here](https://acebook-pingpong.herokuapp.com/).|
+| Project   | Description | Technologies |  Time frame &nbsp; &nbsp; |
+|---        |---          |---           |---          |
+|[MakersBnB](https://github.com/Kefuri/MakersBnB) | A clone of Airbnb. Users can sign up, log in, list a space, and book other people's spaces. | HTML & CSS Frontend. Ruby, Sinatra, PostgreSQL Backend. RSpec and Capybara for testing. | 5 days |
+|[AceBook](https://github.com/Peter2-71828/aceBook-PingPong) | A clone of Facebook. Users can make, edit, and delete posts, upload photos to albums, and select profile pictures. | HTML & CSS Frontend with Bootstrap. Ruby, Rails, PostgreSQL Backend. RSpec and Capybara for testing. Travis and CodeClimate for continuous integration and accountability. Hosted on Heroku: [live site here](https://acebook-pingpong.herokuapp.com/).| 10 days |
 
 **Other technical experience:** 
 JavaScript, Jasmine, NodeJS, PostgreSQL, and SQLite3
