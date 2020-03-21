@@ -15,7 +15,7 @@ For a complete list, see my [GitHub repositories](https://github.com/jlblumberg?
 |[MakersBnB](https://github.com/Kefuri/MakersBnB) | A clone of Airbnb. Users can sign up, log in, list a space, and book other people's spaces. | HTML & CSS Frontend. Ruby, Sinatra, PostgreSQL Backend. RSpec and Capybara for testing. |
 |[AceBook](https://github.com/Peter2-71828/aceBook-PingPong) | A clone of Facebook. Users can make, edit, and delete posts, upload photos to albums, and select profile pictures. | HTML & CSS Frontend with Bootstrap. Ruby, Rails, PostgreSQL Backend. RSpec and Capybara for testing. Travis and CodeClimate for continuous integration and accountability. Hosted on Heroku: [live site here](https://acebook-pingpong.herokuapp.com/).|
 
-**Technichal experience:** 
+**Technical experience:** 
 - Languages: Ruby, JavaScript
 - Development frameworks: Rails
 - Testing frameworks: RSpec (Ruby), Jasmine (JavaScript), Capybara and Selenium-Webdriver (feature testing web-apps)
@@ -79,4 +79,4 @@ A 16-week intensive development bootcamp, focusing on:
 - Gained experience with stand-ups and retrospectives
 
 ## Hobbies and Interests
-Cooking, playing chess, travelling, and writing.
+Cooking, playing chess, traveling, and writing.
