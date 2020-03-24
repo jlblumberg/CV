@@ -1,6 +1,14 @@
-## Josh Blumberg
+<div> 
+
+# Josh Blumberg
+
+<a href="https://www.linkedin.com/in/josh-blumberg/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/josh-blumberg/)
+
+</div>
 
 I am a curious and ambitious junior **full stack developer** with a passion for fintech and automation, looking for a role where I can use and extend my programming knowledge while also gaining exposure to product management and wider business strategy.
 
