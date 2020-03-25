@@ -14,7 +14,7 @@
 
 I am a curious and ambitious junior full stack developer looking for a role where I can use and extend my programming knowledge while also gaining exposure to product management and wider business strategy.
 
-After graduating from Western University in Canada with a degree in Psychology, I spent two years working in account management in a digital marketing agency. I started teaching myself how to code when I had the opportunity to automate some of the more repetitive parts of my role, and I am now training full time at Makers Academy, a 16 week software development bootcamp. You can find out more about my journey in my blog post about career-changing, [here](https://blog.makersacademy.com/bad-days-learning-to-code-and-gaining-control-422936255bb7). 
+After graduating from Western University in Canada with a degree in Psychology, I spent two years working in account management in a digital marketing agency. I started teaching myself how to code when I had the opportunity to automate some of the more repetitive parts of my role, and I am now training full time at Makers Academy, a 16 week software development bootcamp. You can find out more about my career-changing journey in my blog post about it, [here](https://blog.makersacademy.com/bad-days-learning-to-code-and-gaining-control-422936255bb7). 
 
 What excites me about coding, and technology in general, is that it allows people to spend more time doing what they love by reducing time spent on tasks that are more mundane.
 
