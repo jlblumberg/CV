@@ -63,7 +63,7 @@ A 16-week intensive development bootcamp, focusing on:
 
 #### Western University (Canada) (Sep '13 - Apr '17)
 
-- B.Sc. (Hons) Psychology, with a Specialisation in Developmental Cognitive Neuroscience -- Achieved a 2:1 (equivalent)
+- B.Sc. (Hons) Psychology, with a Specialisation in Developmental Cognitive Neuroscience -- Achieved a 1st (3.7 GPA)
 - Completed modules in Calculus, Physics, Chemistry, Biology, Psychology and Neuroscience, as well as an analytical
   dissertation on the effect of adversity on impulsivity in Syrian refugee children in Canada
 - Awards: Western Scholarship of Excellence, Chinese Language Prize for highest achievement in the study of Mandarin
