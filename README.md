@@ -36,7 +36,7 @@ JavaScript, Jasmine, NodeJS, PostgreSQL, and SQLite3
 
 #### Communication
 
-I honed my communication skills while completing my thesis at university, which involved writing and defending a 90-page dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I recieved feedback that the session was well run and helped them understand this potentially confusing topic. 
+I honed my communication skills while completing my thesis at university, which involved writing and defending a 90-page dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic. 
 
 #### Analysis
 
