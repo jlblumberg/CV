@@ -50,7 +50,7 @@ I am always analysing and looking for ways to improve. In my last job, I regular
 
 #### Stewardship
 
-When I agree to partake in something, I care about how it goes, and I try to leave things better than I found them. For instance, I found that many people in the agency I used to work at were complaining about their jobs, but we didn't have a mechanism for anonymously feeding back to management. In my free time, I spoke to many people across the business, did research about different options, and eventually found a suitable employee engagement platform. I successfully pitched a case to the leadership team and secured funding from our finance department. We on-boarded the platform and began to improve employee satisfaction and engagement.
+When I agree to partake in something, I care about how it goes and I try to leave things better than I found them. For instance, I found that many people in the agency I used to work at were complaining about their jobs, but we didn't have a mechanism for anonymously feeding back to management. In my free time, I spoke to many people across the business, did research about different options, and eventually found a suitable employee engagement platform. I successfully pitched a case to the leadership team and secured funding from our finance department. We on-boarded the platform and began to improve employee satisfaction and engagement.
 
 #### Additional skills
 
