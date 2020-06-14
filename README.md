@@ -16,7 +16,7 @@ I am a curious and ambitious full stack developer looking for a full-time role i
 
 After graduating from Western University in Canada with a degree in Psychology, I spent two years working in account management in a digital marketing agency. I started teaching myself how to code when I had the opportunity to automate some of the more repetitive parts of my role, and I've just finished training full time at Makers Academy, a 16 week software development bootcamp. You can find out more about my career-changing journey in my blog post about it, [here](https://blog.makersacademy.com/bad-days-learning-to-code-and-gaining-control-422936255bb7). 
 
-What excites me about software is that it can bring innovation to any industry it's applied to. It has the power to reduce friction in difficult processes, connect disparate information sources, and automate away mundane or repetitive tasks. In general, I believe in its power to be a positive agent of change for the world. 
+What excites me about software is that it can bring innovation to any industry it's applied to. It has the power to reduce friction in difficult processes, connect disparate information sources, and automate away mundane or repetitive tasks. I believe in its power to be a positive agent of change for the world, and I'm looking forward to working for a company where I can contribute to that.
 
 ## Projects
 
